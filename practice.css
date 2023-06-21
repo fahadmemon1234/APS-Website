@@ -1,0 +1,257 @@
+.main-container{
+    max-width: 1170px;
+    margin: auto;
+}
+
+button{
+    font-size: 10%;
+}
+
+.navbar-light{
+    color: black;
+    font-family: 'Merriweather', serif;
+}
+
+.navbar{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+
+.navbar-nav, .navbar-brand{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.img{
+    background-image: url(images/Practise_area_featured.jpg);
+    background-size: cover;
+    height: 240px;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.bg{
+    background-color: #f0f4f7;
+}
+
+.color{
+    padding-top: 2%;
+    margin-top: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: white;
+    border: 1px solid blue;
+
+}
+
+.head{
+    font-family: 'Merriweather', serif;
+}
+
+.pa{
+    font-family: 'Merriweather', serif;
+    line-height: 160%;
+}
+
+.mou{
+    font-size: 40px;
+    color: #1f9afb;
+    
+}
+
+.link{
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+}
+
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */ /* Added */
+    margin-bottom: 8%;
+    margin-top: 8%;
+}
+
+.le{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+@media only screen and (max-width: 767px){
+.other-practice-area {
+    background-size: auto 100%;
+}
+}
+
+.btn-areas {
+    padding: 12px 20px;
+    background: #2196F3;
+    border: 2px solid #2196F3;
+    color: #fff;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 0px;
+    transition: 300ms ease-out !important;
+    font-family: 'Merriweather', serif;
+}
+
+.light-graybox {
+    padding: 12px 10px;
+    border-radius: 4px;
+    background: rgba(106, 138, 159, 0.60);
+    padding-top: 2.3%;
+
+}
+
+.ne {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    border-radius: 4px;
+    user-select: none;
+}
+
+.an {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.btn-contact {
+    background: #2196F3;
+    border-color: #2196F3;
+    color: #fff !important;
+    font-size: 15px;
+    padding: 16px 40px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    font-family: 'Merriweather', serif;
+}
+
+.mt40 {
+    margin-top: 40px;
+}
+
+.ht {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+footer{
+    background-color: #1b1b1d;
+}
+
+.button{
+    background-color: #1b97f3;
+    color: white;
+    border-radius: 100%;
+    font-size: 100%;
+    width: 50px;
+    height: 30%;
+    border: 6px solid #1b97f3;
+}
+
+hr.new4 {
+    border: 2px solid #1b97f3;
+    margin-right: 70%;
+    color: #1b97f3;
+  }
+
+  hr.new2 {
+    border: 2px solid #1b97f3;
+    color: #1b97f3;
+    margin-right: 83%;
+  } 
+
+  hr.new1 {
+    border: 2px solid #1b97f3;
+    color: #1b97f3;
+    margin-right: 83%;
+  } 
+
+  .footer{
+      margin-top: 10%;
+      color: white;
+      font-family: 'Merriweather', serif;
+  }
+
+  .footer1{
+    margin-top: 10%;
+    color: white;
+    font-family: 'Merriweather', serif;
+  }
+
+  .footer2{
+    margin-top: 10%;
+    color: white;
+    font-family: 'Merriweather', serif;
+  }
+
+  .contat{
+      color: white;
+      font-family: 'Merriweather', serif;
+      margin-top: 14%;
+  }
+
+  .contact{
+    color: white;
+    font-family: 'Merriweather', serif;
+    margin-top: 5%;
+  }
+
+  .num{
+    text-decoration: none;
+    color: lightskyblue;
+  }
+
+  .kk{
+    margin-top: 11%;
+  }
+
+  .nav-link{
+      color: white;
+      font-family: 'Merriweather', serif;
+      margin-left: -7%;
+  }
+.link{
+    margin-top: 10%;
+    font-family: 'Merriweather', serif;
+}
+
+.end{
+    background-color: #151517;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.me{
+    margin-left: 6%;
+}
+
+.m{
+    float: right;
+    margin-right: 6%;
+}
+

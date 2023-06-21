@@ -1,0 +1,181 @@
+.main-container{
+    max-width: 1170px;
+    margin: auto;
+}
+
+.navbar-light{
+    color: black;
+    font-family: 'Merriweather', serif;
+}
+
+.navbar{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+
+.navbar-nav, .navbar-brand{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.text-white{
+    background-image: url(images/banner.jpg);
+    background-size: cover;
+    height: 523px;
+    width: 100%;
+}
+
+.card-title{
+    font-family: 'Merriweather', serif;
+    margin-top: 15%;
+    font-size: 200%;
+}
+
+.card-text{
+    font-family: 'Merriweather', serif;
+    font-size: 95%;
+    padding-right: 25%;
+    padding-left: 25%;
+}
+
+.btn{
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 110%;
+    text-align: center;
+}  
+
+.heading{
+    font-family: 'Merriweather', serif;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.paragraph{
+    font-family: 'Merriweather', serif;
+    line-height: 170%;
+    font-size: 105%;
+    text-align: left;
+}
+
+.sec{
+    background-color: #f0f4f7;
+    margin-top: 3%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.memon{
+    font-family: 'Merriweather', serif;
+    font-size: 130%;
+}
+
+.gc{
+    font-family: 'Merriweather', serif;
+    margin-top: -1%;
+    font-size: 130%;
+}
+
+strong{
+    color: cornflowerblue;
+    background-color: #f3f5c4;
+}
+
+footer{
+    background-color: #1b1b1d;
+}
+
+hr.new4 {
+    border: 2px solid #1b97f3;
+    margin-right: 70%;
+    color: #1b97f3;
+  }
+
+  hr.new2 {
+    border: 2px solid #1b97f3;
+    color: #1b97f3;
+    margin-right: 83%;
+  } 
+
+  hr.new1 {
+    border: 2px solid #1b97f3;
+    color: #1b97f3;
+    margin-right: 83%;
+  } 
+
+  .footer{
+      margin-top: 10%;
+      color: white;
+      font-family: 'Merriweather', serif;
+  }
+
+  .footer1{
+    margin-top: 10%;
+    color: white;
+    font-family: 'Merriweather', serif;
+  }
+
+  .button{
+      background-color: #1b97f3;
+      color: white;
+      border-radius: 100%;
+      font-size: 100%;
+      width: 50px;
+      height: 30%;
+      border: 6px solid #1b97f3;
+  }
+
+  .footer2{
+    margin-top: 10%;
+    color: white;
+    font-family: 'Merriweather', serif;
+  }
+
+  .contat{
+      color: white;
+      font-family: 'Merriweather', serif;
+      margin-top: 14%;
+  }
+
+  .contact{
+    color: white;
+    font-family: 'Merriweather', serif;
+    margin-top: 5%;
+  }
+
+  .num{
+    text-decoration: none;
+    color: lightskyblue;
+  }
+
+  .kk{
+    margin-top: 11%;
+  }
+
+  .nav-link{
+      color: white;
+      font-family: 'Merriweather', serif;
+      margin-left: -7%;
+  }
+.link{
+    margin-top: 10%;
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+
+.end{
+    background-color: #151517;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.me{
+    margin-left: 6%;
+}
+
+.m{
+    float: right;
+    margin-right: 6%;
+}
